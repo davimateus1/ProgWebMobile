@@ -1,0 +1,62 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.profile img {
+    border-radius: 50%;
+}
+
+.profile h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.media video {
+    margin-bottom: 0.8rem;
+}
+
+.about{
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.contact {
+    margin-top: 5em;
+    text-align: center;
+}
+
+.contact a{
+    font-weight: bold;
+    text-decoration: none;
+    color: cornsilk;
+    transition: all 0.5s;
+}
+.contact a:hover{
+    color: red;
+}
+
+.phrase{
+    margin-top: 5em;
+    text-align: center;
+    font-size: 12px;
+}
+
+.phrase span {
+    font-style: italic;
+}
