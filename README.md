@@ -23,7 +23,7 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 <br>
 
 <h2>Projeto 1: Biografia 📝</h2>
-<p align="left">
+<p align="center">
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/158661852-6d90e331-f627-4650-8c41-b03813f69064.png" width="100%">
   Esse projeto consiste em uma biografia, onde trago alguns fatos importantes sobre mim, uma frase que eu gosto, um vídeo e áudio indicados pelo professor da cadeira e meios de contato (Email e uma rede social).
 </p>
