@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Conversor de Moedas</h1>
+    <div class="container">
+
+        <div class="box">
+            <h3>Taxa de Conversão</h3>
+            <input type="number" id="taxa" value="">
+            <div>
+                <button onclick="obterTaxa()" id="botaoTaxa">Confirmar</button>
+                <button onclick="limpaInput()" id="botaoLimpaTaxa">Limpar a taxa</button>
+            </div>
+        </div>
+
+        <h3>Informe o valor em dólar para converter</h3>
+        <div class="box">
+            <input type="number" id="dolarReal">
+            <button onclick="dolarParaReal()" id="botaoReal">Converter para real</button>
+        </div>
+        <div id="resultadoReal"></div>
+
+        <h3>Informe o valor em real para converter</h3>
+        <div class="box">
+            <input type="number" id="realDolar">
+            <button onclick="realParaDolar()" id="botaoDolar">Converter para dólar</button>
+        </div>
+        <div id="resultadoDolar"></div>
+
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>
