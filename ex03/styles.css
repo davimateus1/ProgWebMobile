@@ -1,0 +1,86 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2e0bd;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    height: 10rem;
+    background: #e8aed7;
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(11.5px);
+    -webkit-backdrop-filter: blur(11.5px);
+    border: 0.5px solid black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 {
+    margin-top: 20px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    height: 10rem;
+    background: #e8bfff;
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(11.5px);
+    -webkit-backdrop-filter: blur(11.5px);
+    border: 0.5px solid black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container p {
+    font-size: 20px;
+    
+}
+
+.container span {
+    font-size: 25px;
+}
+
+.container2 p {
+    font-size: 20px;
+    
+}
+.container2 span {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+.buttonContainer1, .buttonContainer2{
+    margin-bottom: 20px;
+}
+
+.buttonContainer1 button, .buttonContainer2 button{
+   cursor: pointer;
+   border: 0.5px solid black;
+   width: 20rem;
+   height: 5rem;
+   background-color: #f2b2ac;
+   font-size: 25px;
+   border-radius: 20px;
+   transition: all 0.5s;
+}
+
+.buttonContainer button:hover{
+    background-color: #b6c9bb;
+ }
