@@ -36,6 +36,7 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 
 <br>
 <br>
+
 <h2>Projeto 2: Conversor de Moedas 💸</h2>
 <p align="center">
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/160146473-4d8d82be-dc3d-4636-8027-0ad4441f8aed.png" width="100%">
@@ -47,10 +48,37 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 </h3>
  <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-ex02.vercel.app">desse link!</a></p>
 
+<br>
+<br>
+
+<h2>Projeto 3: Contador 🕗</h2>
+<p align="center">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/162360198-1d3ba7b0-e496-4db4-9304-0801a56b6365.png" width="100%">
+  Esse projeto consiste basicamente em dois contadores independentes, ao clicar em qualquer parte do container, o contador é incrementado, e ao clicar no botão de limpar ele é resetado. 
+</p>
+
+<h3 align="center">
+ Deploy 🚀
+</h3>
+ <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-ex03.vercel.app">desse link!</a></p>
 
 <br>
 <br>
 
+<h2>Projeto 4: Gerador de Contadores 🕗</h2>
+<p align="center">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/162360345-4e75c7cf-8ac9-4add-b955-7ebd8c0e3608.png" width="100%">
+  Esse projeto consiste em uma aplicação que gera contadores independentes, informe uma palavra e ao clicar em "Criar Contador" será gerado um contador com a sua palavra, uma cor de fundo aleatória, um input que informa quantas vezes você já clicou no container e por fim, um botão para limpar o contador.
+</p>
+
+<h3 align="center">
+ Deploy 🚀
+</h3>
+ <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-ex04.vercel.app">desse link!</a></p>
+ 
+ <br>
+ <br>
+ 
 ---
 
 <h4 align="center">
