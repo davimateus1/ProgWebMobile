@@ -1,19 +1,19 @@
 const text = document.getElementById("text");
 const cardsContainer = document.getElementById("cards");
 
-var lista = [];
+var list = [];
 
 const addCard = () => {
   if (isValid(text.value)) {
     return alert("Preencha o campo corretamente para continuar! 😡");
   }
-  lista.push(text.value);
-  renderCards(lista);
+  list.push(text.value);
+  renderCards(list);
   text.value = "";
 };
 
 const renderCards = (cardList) => {
-  const itens = cardList.map(
+  const items = cardList.map(
     (card, index) =>
       `
     <div id="cardContainer" key="${index}" onclick="increment(${index})" style="background-color:${generateColor()}">
@@ -23,7 +23,7 @@ const renderCards = (cardList) => {
     </div>
     `
   );
-  cardsContainer.innerHTML = itens.join("");
+  cardsContainer.innerHTML = items.join("");
 };
 
 const increment = (index) => {
