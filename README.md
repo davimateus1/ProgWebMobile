@@ -12,6 +12,7 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Kotlin](https://kotlinlang.org/lp/mobile/)
 
 <br>
 <hr>
@@ -75,6 +76,18 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
  Deploy 🚀
 </h3>
  <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-ex04.vercel.app">desse link!</a></p>
+ 
+ <br>
+ <br>
+ 
+ <h2>Projeto 5: Calculadora de Gorgetas (TipTime) 📱</h2>
+<p align="center">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/165665870-ec7ae6ee-0a91-42bc-b821-ebb8b86ed518.png" width="25%">
+</p>
+<p align="center">
+Esse projeto consiste em uma aplicação mobile feita com Kotlin para calcular gorgetas, informe um valor no campo de input, marque uma das opções e clique no Botão de calcular, após isso o valor da gorgeta aparecerá de forma formatada e amigável.
+ </p>
+
  
  <br>
  <br>
