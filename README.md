@@ -35,6 +35,7 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 </h3>
  <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-navy.vercel.app">desse link!</a></p>
 
+<hr>
 <br>
 <br>
 
@@ -49,6 +50,7 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 </h3>
  <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-ex02.vercel.app">desse link!</a></p>
 
+<hr>
 <br>
 <br>
 
@@ -63,6 +65,7 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 </h3>
  <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-ex03.vercel.app">desse link!</a></p>
 
+<hr>
 <br>
 <br>
 
@@ -77,21 +80,33 @@ Essas atividades foram desenvolvidas com as seguintes tecnologias:
 </h3>
  <p align="center">Você pode testar acessar este projeto através <a href="https://prog-web-mobile-ex04.vercel.app">desse link!</a></p>
  
+ <hr>
  <br>
  <br>
  
- <h2>Projeto 5: Calculadora de Gorgetas (TipTime) 📱</h2>
+ <h2>Projeto 5: Calculadora de Gorgetas (Tip Time) 📱</h2>
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/165665870-ec7ae6ee-0a91-42bc-b821-ebb8b86ed518.png" width="25%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/167615525-b662495d-6e37-44b9-aac8-abda00de3f3c.jpeg" width="25%">
 </p>
 <p align="center">
 Esse projeto consiste em uma aplicação mobile feita com Kotlin para calcular gorgetas, informe um valor no campo de input, marque uma das opções e clique no Botão de calcular, após isso o valor da gorgeta aparecerá de forma formatada e amigável.
  </p>
 
- 
+ <hr>
  <br>
  <br>
  
+<h2>Projeto 5: Calculadora de Idade (Age Calculator) 📱</h2>
+<p align="center">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/167615675-93f5b957-166c-47b6-9e5c-713bb3e9852d.jpeg" width="25%">
+</p>
+<p align="center">
+Esse projeto consiste em uma aplicação mobile feita com Kotlin para calcular idades, informe seu dia, mês e ano de nascimento e clique no botão para que a sua idade exata seja exibida na tela.
+ </p>
+ 
+ <br>
+ <br>
+
 ---
 
 <h4 align="center">
