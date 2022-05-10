@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Age Calculator: Davi Mateus</string>
+    <string name="app_label_day">Month Day</string>
+    <string name="app_label_month">Month</string>
+    <string name="app_label_year">Year</string>
+    <string name="app_button_calculate">Calculate</string>
+    <string name="age_result">Your age: %s years</string>
+</resources>
